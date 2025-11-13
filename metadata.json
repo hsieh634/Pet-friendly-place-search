@@ -1,0 +1,7 @@
+{
+  "name": "Pet-Friendly Place Finder",
+  "description": "An application to help users find pet-friendly locations like restaurants, cafes, and hotels in various cities and districts of Taiwan. It uses AI to provide up-to-date and relevant information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
